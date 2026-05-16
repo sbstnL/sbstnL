@@ -10,7 +10,7 @@ This page is for showcasing my side projects.
 
 sebLab is my personal lab for AI-native experiments and side projects.
 
-- **Bean Score** — an AI coffee journal that helps you track the beans that you like and helps you understand your pallet at scale.
+- **Bean Score** — an AI coffee journal that helps you track the beans that you like and helps you understand your palate.
   → [beanscore.seblab.online](https://beanscore.seblab.online)
 - **Sole Gallery** — a premium digital display for sneaker collectors, with AI
   that surfaces the stories behind each pair.
